@@ -1,0 +1,15 @@
+E:\GB\C#\Exercises\Zadachnik\Part1_Intern\7\obj\Debug\net6.0\7.csproj.AssemblyReference.cache
+E:\GB\C#\Exercises\Zadachnik\Part1_Intern\7\obj\Debug\net6.0\7.GeneratedMSBuildEditorConfig.editorconfig
+E:\GB\C#\Exercises\Zadachnik\Part1_Intern\7\obj\Debug\net6.0\7.AssemblyInfoInputs.cache
+E:\GB\C#\Exercises\Zadachnik\Part1_Intern\7\obj\Debug\net6.0\7.AssemblyInfo.cs
+E:\GB\C#\Exercises\Zadachnik\Part1_Intern\7\obj\Debug\net6.0\7.csproj.CoreCompileInputs.cache
+E:\GB\C#\Exercises\Zadachnik\Part1_Intern\7\bin\Debug\net6.0\7.exe
+E:\GB\C#\Exercises\Zadachnik\Part1_Intern\7\bin\Debug\net6.0\7.deps.json
+E:\GB\C#\Exercises\Zadachnik\Part1_Intern\7\bin\Debug\net6.0\7.runtimeconfig.json
+E:\GB\C#\Exercises\Zadachnik\Part1_Intern\7\bin\Debug\net6.0\7.dll
+E:\GB\C#\Exercises\Zadachnik\Part1_Intern\7\bin\Debug\net6.0\7.pdb
+E:\GB\C#\Exercises\Zadachnik\Part1_Intern\7\obj\Debug\net6.0\7.dll
+E:\GB\C#\Exercises\Zadachnik\Part1_Intern\7\obj\Debug\net6.0\refint\7.dll
+E:\GB\C#\Exercises\Zadachnik\Part1_Intern\7\obj\Debug\net6.0\7.pdb
+E:\GB\C#\Exercises\Zadachnik\Part1_Intern\7\obj\Debug\net6.0\7.genruntimeconfig.cache
+E:\GB\C#\Exercises\Zadachnik\Part1_Intern\7\obj\Debug\net6.0\ref\7.dll
